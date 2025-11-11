@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knuckduckler
 - 👀 I’m interested in casual programming projects.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning GDScript and Python.
 - 💞️ I’m looking to collaborate on nothing at the moment. Just learning.
 - 📫 How to reach me by email at knuckduckler@proton.me or knuckduckler#8191 on discord.
 
